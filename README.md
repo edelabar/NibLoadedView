@@ -9,7 +9,7 @@ If your class extends this class, you can set a UIView in a Storyboard or Nib fi
 
 As a bonus, with Xcode 6, if you make your subclass ```@IBDesignable``` the view will render in Interface Builder!
 
-For a working example, see (edelabar/AutoLayoutTester)[https://github.com/edelabar/AutoLayoutTester].  There's a more in-depth article coming soon.
+For a working example, see [edelabar/AutoLayoutTester](https://github.com/edelabar/AutoLayoutTester).  There's a more in-depth article coming soon.
 
 ## Thanks
 
