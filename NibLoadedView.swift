@@ -12,7 +12,7 @@ public class NibLoadedView: UIView {
 
     var secondRun: Bool = false
     
-    public override func awakeAfterUsingCoder(aDecoder: NSCoder!) -> AnyObject! {
+    public override func awakeAfterUsingCoder(aDecoder: NSCoder) -> AnyObject? {
         var isStoryboardPlaceholder: Bool = (self.subviews.count == 0);
         if (isStoryboardPlaceholder) {
             
